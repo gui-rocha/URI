@@ -11,11 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1011 - Esfera.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Iniciante/1011 - Esfera.py">
+      <file leaf-file-name="1019 - Conversão de Tempo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Iniciante/1019 - Conversão de Tempo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1020 - Idade em Dias.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Iniciante/1020 - Idade em Dias.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,10 +59,19 @@
         <option value="$PROJECT_DIR$/Iniciante/1008 - Salário.py" />
         <option value="$PROJECT_DIR$/Iniciante/1009 - Salário com Bônus.py" />
         <option value="$PROJECT_DIR$/Iniciante/1010 - Cálculo Simples.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1012 - Área.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1013 - O Maior.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1014 - Consumo.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1015 - Distância Entre Dois Pontos.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1016 - Distância.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1017 - Gasto de Combustível.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1018 - Cédulas.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1019 - Conversão de Tempo.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1020 - Idade em Dias.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-6" />
     <option name="width" value="620" />
     <option name="height" value="735" />
@@ -112,8 +131,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1010 - Cálculo Simples">
-    <configuration name="1006 - Média 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1020 - Idade em Dias">
+    <configuration name="1016 - Distância" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -125,31 +144,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1006 - Média 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1016 - Distância.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1007 - Diferença" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python3" />
-      <option name="SCRIPT_NAME" value="C:\Users\Guilherme\Documents\GitHub\URI\Python3\Iniciante\1007 - Diferença.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="1008 - Salário" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1017 - Gasto de Combustível" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -161,13 +162,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1008 - Salário.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1017 - Gasto de Combustível.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1009 - Salário com Bônus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1018 - Cédulas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -179,13 +180,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1009 - Salário com Bônus.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1018 - Cédulas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1010 - Cálculo Simples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1019 - Conversão de Tempo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -197,26 +198,44 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1010 - Cálculo Simples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1019 - Conversão de Tempo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1020 - Idade em Dias" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iniciante" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1020 - Idade em Dias.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1006 - Média 2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1007 - Diferença" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1008 - Salário" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1009 - Salário com Bônus" />
-      <item index="4" class="java.lang.String" itemvalue="Python.1010 - Cálculo Simples" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1016 - Distância" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1017 - Gasto de Combustível" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1018 - Cédulas" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1019 - Conversão de Tempo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1020 - Idade em Dias" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1010 - Cálculo Simples" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1009 - Salário com Bônus" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1008 - Salário" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1007 - Diferença" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1006 - Média 2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1020 - Idade em Dias" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1019 - Conversão de Tempo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1018 - Cédulas" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1017 - Gasto de Combustível" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1016 - Distância" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +256,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -372,6 +391,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1012 - Área.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1013 - O Maior.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1014 - Consumo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1015 - Distância Entre Dois Pontos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1016 - Distância.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1017 - Gasto de Combustível.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1018 - Cédulas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1019 - Conversão de Tempo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1020 - Idade em Dias.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
