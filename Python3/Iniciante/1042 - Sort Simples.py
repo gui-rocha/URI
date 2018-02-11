@@ -1,0 +1,10 @@
+a, b, c = map(int, input().split(' '))
+lista = [a, b, c]
+ordem = sorted(lista)
+print(ordem[0])
+print(ordem[1])
+print(ordem[2])
+print()
+print(a)
+print(b)
+print(c)
