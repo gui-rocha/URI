@@ -1,7 +1,4 @@
-lista = input().split(' ')
-A = int(lista[0])
-B = int(lista[1])
-C = int(lista[2])
+A, B, C = map(int,input().split(' '))
 maiorAB = int((A + B + abs(A - B)) / 2)
 maior = int((maiorAB + C + abs(maiorAB - C)) / 2)
 print('{} eh o maior'.format(maior))

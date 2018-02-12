@@ -1,8 +1,5 @@
 from math import sqrt
-valores = str(input()).split(' ')
-A = float(valores[0])
-B = float(valores[1])
-C = float(valores[2])
+A, B, C = map(float, input().split(' '))
 delta = B ** 2 - (4 * A * C)
 if A == 0 or delta < 0:
     print('Impossivel calcular')

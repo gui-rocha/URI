@@ -1,8 +1,4 @@
-num = input().split(' ')
-n1 = float(num[0])
-n2 = float(num[1])
-n3 = float(num[2])
-n4 = float(num[3])
+n1, n2, n3, n4 = map(float, input().split(' '))
 media = ((n1 * 2) + (n2 * 3) + (n3 * 4) + (n4 * 1)) / 10
 print('Media: {:.1f}'.format(media))
 if media >= 7.0:

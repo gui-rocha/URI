@@ -10,38 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="1045 - Tipos de Triângulos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iniciante/1045 - Tipos de Triângulos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1046 - Tempo de Jogo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Iniciante/1046 - Tempo de Jogo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1042 - Sort Simples.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Iniciante/1042 - Sort Simples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,29 +39,29 @@
         <option value="$PROJECT_DIR$/Iniciante/1009 - Salário com Bônus.py" />
         <option value="$PROJECT_DIR$/Iniciante/1010 - Cálculo Simples.py" />
         <option value="$PROJECT_DIR$/Iniciante/1012 - Área.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1013 - O Maior.py" />
         <option value="$PROJECT_DIR$/Iniciante/1014 - Consumo.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1015 - Distância Entre Dois Pontos.py" />
         <option value="$PROJECT_DIR$/Iniciante/1016 - Distância.py" />
         <option value="$PROJECT_DIR$/Iniciante/1017 - Gasto de Combustível.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1018 - Cédulas.py" />
         <option value="$PROJECT_DIR$/Iniciante/1019 - Conversão de Tempo.py" />
         <option value="$PROJECT_DIR$/Iniciante/1020 - Idade em Dias.py" />
         <option value="$PROJECT_DIR$/Iniciante/1021 - teste.py" />
         <option value="$PROJECT_DIR$/Iniciante/1021 - Notas e Moedas.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1036 - Fórmula de Bhaskara.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1035 - Teste de Seleção 1.py" />
         <option value="$PROJECT_DIR$/Iniciante/1037 - Intervalo.py" />
         <option value="$PROJECT_DIR$/Iniciante/1038 - Lanche.py" />
         <option value="$PROJECT_DIR$/Iniciante/1061 - l.py" />
         <option value="$PROJECT_DIR$/Iniciante/1061 - Tempo de um Evento.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1040 - Média 3.py" />
         <option value="$PROJECT_DIR$/Iniciante/1042 - Sort Simples.py" />
         <option value="$PROJECT_DIR$/Iniciante/1041 - Coordenadas de um Ponto.py" />
         <option value="$PROJECT_DIR$/Iniciante/1043 - Triângulo.py" />
         <option value="$PROJECT_DIR$/Iniciante/1044 - Múltiplos.py" />
         <option value="$PROJECT_DIR$/Iniciante/1045 - Tipos de Triângulos.py" />
         <option value="$PROJECT_DIR$/Iniciante/1046 - Tempo de Jogo.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1013 - O Maior.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1015 - Distância Entre Dois Pontos.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1018 - Cédulas.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1035 - Teste de Seleção 1.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1036 - Fórmula de Bhaskara.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1040 - Média 3.py" />
       </list>
     </option>
   </component>
@@ -157,7 +126,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1045 - Tipos de Triângulos">
+  <component name="RunManager" selected="Python.1018 - Cédulas">
+    <configuration name="1018 - Cédulas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iniciante" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1018 - Cédulas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="1041 - Coordenadas de um Ponto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,24 +158,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1041 - Coordenadas de um Ponto.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="1042 - Sort Simples" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iniciante" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1042 - Sort Simples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,19 +218,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1042 - Sort Simples" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1041 - Coordenadas de um Ponto" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1043 - Triângulo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1044 - Múltiplos" />
-      <item index="4" class="java.lang.String" itemvalue="Python.1045 - Tipos de Triângulos" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1041 - Coordenadas de um Ponto" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1043 - Triângulo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1044 - Múltiplos" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1045 - Tipos de Triângulos" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1018 - Cédulas" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1045 - Tipos de Triângulos" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1044 - Múltiplos" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1043 - Triângulo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1041 - Coordenadas de um Ponto" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1042 - Sort Simples" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1018 - Cédulas" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1045 - Tipos de Triângulos" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1044 - Múltiplos" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1043 - Triângulo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1041 - Coordenadas de um Ponto" />
       </list>
     </recent_temporary>
   </component>
@@ -346,13 +315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1001 - Extremamente Básico.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iniciante/1005 - Média 1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -402,120 +364,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1013 - O Maior.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1014 - Consumo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1015 - Distância Entre Dois Pontos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1016 - Distância.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1017 - Gasto de Combustível.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1020 - Idade em Dias.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1019 - Conversão de Tempo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iniciante/1021 - teste.py" />
-    <entry file="file://$PROJECT_DIR$/Iniciante/1021 - Notas e Moedas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1036 - Fórmula de Bhaskara.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1035 - Teste de Seleção 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1037 - Intervalo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1038 - Lanche.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iniciante/1061 - l.py" />
-    <entry file="file://$PROJECT_DIR$/Iniciante/1061 - Tempo de um Evento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1040 - Média 3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1041 - Coordenadas de um Ponto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1018 - Cédulas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iniciante/1002 - Área do Círculo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -530,13 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1043 - Triângulo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iniciante/1044 - Múltiplos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -545,10 +388,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1042 - Sort Simples.py">
+    <entry file="file://$PROJECT_DIR$/Iniciante/1046 - Tempo de Jogo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -561,10 +404,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1046 - Tempo de Jogo.py">
+    <entry file="file://$PROJECT_DIR$/Iniciante/1061 - Tempo de um Evento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1001 - Extremamente Básico.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1013 - O Maior.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1014 - Consumo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1015 - Distância Entre Dois Pontos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1016 - Distância.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1017 - Gasto de Combustível.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1018 - Cédulas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1019 - Conversão de Tempo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1020 - Idade em Dias.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1021 - Notas e Moedas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1035 - Teste de Seleção 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1036 - Fórmula de Bhaskara.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1037 - Intervalo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1038 - Lanche.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1040 - Média 3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1041 - Coordenadas de um Ponto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1042 - Sort Simples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1043 - Triângulo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
