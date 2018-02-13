@@ -25,9 +25,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1011 - Esfera.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1001 - Extremamente Básico.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1002 - Área do Círculo.py" />
         <option value="$PROJECT_DIR$/Iniciante/1011 - Esfera.py" />
         <option value="$PROJECT_DIR$/Iniciante/1003 - Soma Simples.py" />
         <option value="$PROJECT_DIR$/Iniciante/1004 - Produto Simples.py" />
@@ -55,13 +52,30 @@
         <option value="$PROJECT_DIR$/Iniciante/1043 - Triângulo.py" />
         <option value="$PROJECT_DIR$/Iniciante/1044 - Múltiplos.py" />
         <option value="$PROJECT_DIR$/Iniciante/1045 - Tipos de Triângulos.py" />
-        <option value="$PROJECT_DIR$/Iniciante/1046 - Tempo de Jogo.py" />
         <option value="$PROJECT_DIR$/Iniciante/1013 - O Maior.py" />
         <option value="$PROJECT_DIR$/Iniciante/1015 - Distância Entre Dois Pontos.py" />
         <option value="$PROJECT_DIR$/Iniciante/1018 - Cédulas.py" />
         <option value="$PROJECT_DIR$/Iniciante/1035 - Teste de Seleção 1.py" />
         <option value="$PROJECT_DIR$/Iniciante/1036 - Fórmula de Bhaskara.py" />
         <option value="$PROJECT_DIR$/Iniciante/1040 - Média 3.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1074 - Par ou Ímpar.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1048 - Aumento de Salário.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1047 - Tempo de Jogo com Minutos.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1046 - Tempo de Jogo.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1050 - DDD.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1049 - Animal.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1059 - Números Pares.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1067 - Números Ímpares.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1060 - Números Positivos.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1066 - Pares, Ímpares, Positivos e Negativos.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1071 - Soma de Ímpares Consecutivos I.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1070 - Seis Números Ímpares.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1073 - Quadrado de Pares.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1072 - Intervalo 2.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1065 - Pares entre Cinco  Números.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1064 - Positivos e Média.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1052 - Mês.py" />
+        <option value="$PROJECT_DIR$/Iniciante/1051 - Imposto de Renda.py" />
       </list>
     </option>
   </component>
@@ -126,8 +140,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1018 - Cédulas">
-    <configuration name="1018 - Cédulas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1051 - Imposto de Renda">
+    <configuration name="1051 - Imposto de Renda" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -139,13 +153,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1018 - Cédulas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1051 - Imposto de Renda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1041 - Coordenadas de um Ponto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1052 - Mês" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -157,13 +171,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1041 - Coordenadas de um Ponto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1052 - Mês.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1043 - Triângulo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1064 - Positivos e Média" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -175,13 +189,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1043 - Triângulo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1064 - Positivos e Média.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1044 - Múltiplos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1065 - Pares entre Cinco  Números" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -193,13 +207,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1044 - Múltiplos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1065 - Pares entre Cinco  Números.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="1045 - Tipos de Triângulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1072 - Intervalo 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -211,26 +225,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1045 - Tipos de Triângulos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iniciante/1072 - Intervalo 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1041 - Coordenadas de um Ponto" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1043 - Triângulo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1044 - Múltiplos" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1045 - Tipos de Triângulos" />
-      <item index="4" class="java.lang.String" itemvalue="Python.1018 - Cédulas" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1072 - Intervalo 2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1065 - Pares entre Cinco  Números" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1064 - Positivos e Média" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1052 - Mês" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1051 - Imposto de Renda" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1018 - Cédulas" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1045 - Tipos de Triângulos" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1044 - Múltiplos" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1043 - Triângulo" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1041 - Coordenadas de um Ponto" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1051 - Imposto de Renda" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1052 - Mês" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1064 - Positivos e Média" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1065 - Pares entre Cinco  Números" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1072 - Intervalo 2" />
       </list>
     </recent_temporary>
   </component>
@@ -253,10 +267,10 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31907895" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30921054" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -282,32 +296,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Iniciante/1003 - Soma Simples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1011 - Esfera.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1003 - Soma Simples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iniciante/1004 - Produto Simples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -380,38 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1044 - Múltiplos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1046 - Tempo de Jogo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1045 - Tipos de Triângulos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Iniciante/1061 - Tempo de um Evento.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Iniciante/1001 - Extremamente Básico.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -464,6 +425,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1074 - Par ou Ímpar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1067 - Números Ímpares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1070 - Seis Números Ímpares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1071 - Soma de Ímpares Consecutivos I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1050 - DDD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1059 - Números Pares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1060 - Números Positivos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1066 - Pares, Ímpares, Positivos e Negativos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1061 - Tempo de um Evento.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1073 - Quadrado de Pares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -552,6 +593,94 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1044 - Múltiplos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1045 - Tipos de Triângulos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1046 - Tempo de Jogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1047 - Tempo de Jogo com Minutos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1048 - Aumento de Salário.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1049 - Animal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1072 - Intervalo 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1065 - Pares entre Cinco  Números.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1064 - Positivos e Média.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1052 - Mês.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iniciante/1051 - Imposto de Renda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
