@@ -1,8 +1,6 @@
 N = int(input())
-lista = []
 for i in range(0, N):
-    lista.append(int(input()))
-for X in lista:
+    X = int(input())
     if X == 0:
         print('NULL')
     elif X % 2 == 0 and X > 0:
